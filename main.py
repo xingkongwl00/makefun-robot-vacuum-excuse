@@ -1,6 +1,6 @@
 from pathlib import Path
 
-"""Write one excuse a robot vacuum would give to /output/entry.txt."""
+"""Write the funniest excuse a robot vacuum could offer to /output/entry.txt."""
 
 JOKE = "I didn't miss that spot. I was giving it a dramatic solo. You're welcome."
 
